@@ -17,13 +17,12 @@ fun writeKuralsToFile(adhigaramNo: Int, adhigaramName: String) {
     var outFile = File("downloads/${adhigaramName}.md");
 
     outFile.bufferedWriter().use { out ->
-
+        var i = 1;
         for (kural in kurals) {
-            var i = 1;
             val data : JSONObject = kural as JSONObject;
             val tamil = convertHtmlBreaksToNewLines(data["Tamil"])
             val english = convertHtmlBreaksToNewLines(data["TamilTransliteration"])
-            val kuralNo = (adhigaramNo - 1) * 10 + i++
+            val kuralNo = (adhigaramNo - 1) * 10 + (i++)
 
             out.write("### குறள் / Kural ${kuralNo} - 00:00")
             out.newLine();
