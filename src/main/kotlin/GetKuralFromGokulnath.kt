@@ -4,6 +4,7 @@ import khttp.responses.Response
 import org.json.JSONObject
 import org.json.JSONArray
 import kotlin.system.exitProcess
+import java.io.File
 
 
 fun writeKuralsToFile(adhigaramNo: Int, adhigaramName: String) {
@@ -13,13 +14,30 @@ fun writeKuralsToFile(adhigaramNo: Int, adhigaramName: String) {
 
     val kurals : JSONArray = json["Data"] as JSONArray
 
-    for (kural in kurals) {
-        val data : JSONObject = kural as JSONObject;
-        val tamil = convertHtmlBreaksToNewLines(data["Tamil"])
-        val english = convertHtmlBreaksToNewLines(data["TamilTransliteration"])
-        println(tamil)
-        println(english)
+    var outFile = File("downloads/${adhigaramName}.md");
+
+    outFile.bufferedWriter().use { out ->
+
+        for (kural in kurals) {
+            var i = 1;
+            val data : JSONObject = kural as JSONObject;
+            val tamil = convertHtmlBreaksToNewLines(data["Tamil"])
+            val english = convertHtmlBreaksToNewLines(data["TamilTransliteration"])
+            val kuralNo = (adhigaramNo - 1) * 10 + i++
+
+            out.write("### குறள் / Kural ${kuralNo} - 00:00")
+            out.newLine();
+            out.write(tamil)
+            out.newLine();
+            out.newLine();
+
+            out.write(english)
+            out.newLine();
+            out.newLine();
+        }
     }
+    println("Written to ${outFile}")
+
 }
 
 fun convertHtmlBreaksToNewLines(value : Any) : String {
