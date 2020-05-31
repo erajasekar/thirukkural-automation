@@ -38,7 +38,7 @@ fun writeYoutubeInfo(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray,
     for (kural in kurals) {
         val data : JSONObject = kural as JSONObject;
         val kuralNo = (adhigaramNo - 1) * 10 + (i++)
-        out.write("குறள் / Kural ${kuralNo} - 00:00 \n")
+        out.write("குறள் / Kural ${kuralNo} - 00:00 \n\n")
         writeKural(data, "Tamil", out);
         writeKural(data, "TamilTransliteration", out);
     }
@@ -52,7 +52,7 @@ fun writeYoutubeInfo(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray,
 }
 
 fun writeParagragh(text: String, out: BufferedWriter) {
-    out.write("${text} \n\n")
+    out.write("${text} \n\n\n")
 }
 
 fun writeTitle(adhigaramNo: Int, adhigaramName : String, adhigaramRange : String, out: BufferedWriter) {
