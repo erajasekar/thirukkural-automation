@@ -16,22 +16,50 @@ fun writeKuralsToFile(adhigaramNo: Int, adhigaramName: String) {
 
     outFile.bufferedWriter().use { out ->
         out.write("# ${adhigaramName} \n\n")
-        writeSummary(adhigaramNo, kurals, out);
+        writeYoutubeInfo(adhigaramNo, adhigaramName,  kurals, out);
         writeMeaning(adhigaramNo, adhigaramName, kurals, out);
     }
     println("Written to ${outFile}")
 }
 
-fun writeSummary(adhigaramNo: Int, kurals: JSONArray, out: BufferedWriter){
-    out.write("## Summary \n\n")
+fun writeYoutubeInfo(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray, out: BufferedWriter){
+    val adhigaramRange = "${(adhigaramNo - 1) * 10 + 1} - ${adhigaramNo * 10}"
+    val adhigaramNameWords = convertCamelCaseToWords(adhigaramName)
+    writeParagragh("## YouTube", out)
+    writeTitle(adhigaramNo, adhigaramNameWords, adhigaramRange, out);
+    writeParagragh("### Description", out)
+    writeParagragh("திருக்குறள்  - <ADHIGARAM> அதிகாரத்தில் உள்ள (${adhigaramRange}) குறள்களின் எளிய  விளக்கம் ", out)
+    writeParagragh("Simple Explanation of Thirukkurals ${adhigaramRange} in ${adhigaramNameWords} Adhigaram #Thirukkural #Thiruvalluvar #Kural ", out)
+    writeParagragh("இந்த காணொளியில் உள்ள தகவல்கள்" , out);
+    writeParagragh("<THUMBNAIL POINTS>", out)
+    writeParagragh("Please see below for Thirukkurals  and their timestamps of explanation in this video." , out)
+
     var i = 1;
     for (kural in kurals) {
         val data : JSONObject = kural as JSONObject;
         val kuralNo = (adhigaramNo - 1) * 10 + (i++)
-        out.write("### குறள் / Kural ${kuralNo} - 00:00 \n")
+        out.write("குறள் / Kural ${kuralNo} - 00:00 \n")
         writeKural(data, "Tamil", out);
         writeKural(data, "TamilTransliteration", out);
     }
+
+    out.newLine()
+    out.newLine()
+    writeParagragh("Thank you for watching this video. Please share your feedback in the comments." , out)
+    writeParagragh("Please like and share it with others if you like this video", out)
+    writeParagragh("Please subscribe to our channel https://www.youtube.com/channel/UC4Xi_LjVkISzDW8-wpSAITA and hit bell button to get notified when we post new videos.", out)
+    writeParagragh("Thanks for your support.", out)
+}
+
+fun writeParagragh(text: String, out: BufferedWriter) {
+    out.write("${text} \n\n")
+}
+
+fun writeTitle(adhigaramNo: Int, adhigaramName : String, adhigaramRange : String, out: BufferedWriter) {
+    writeParagragh("### Title", out)
+    val tamilPart = "திருக்குறள் ${adhigaramRange} <ADHIGARAM> விளக்கம் "
+    val engPart = "Thirukkural ${adhigaramName} Explanation"
+    writeParagragh("${tamilPart} | ${engPart} ", out)
 }
 
 fun writeMeaning(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray, out: BufferedWriter){
@@ -47,14 +75,23 @@ fun writeMeaning(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray, out
         writeKural(data, "Tamil", out, kuralNoStr);
         out.write("```\n")
 
-        out.write("@snap[span-100 text-gray text-left text-04]\n")
-        out.write("தொடரமைப்பு:  TODO\n")
+        out.write("@snap[span-100 text-left text-04]\n")
+        out.write("தொடரமைப்பு:  <TODO> \n")
         out.write("@snapend\n\n")
 
         out.write("@snap[span-100 text-06 text-left]\n")
-        out.write("> பொருள்:  TODO\n\n")
+        out.write("> <பொருள்:>\n\n")
         out.write("@snapend\n\n\n")
     }
+
+    writeParagragh("---", out)
+    out.write("@snap[north span-100]\n")
+    out.write("## நன்றி \n")
+    writeParagragh("@snapend" , out)
+    out.write("@snap[span-100]\n")
+    out.write("`@img[width=300, height=150](assets/img/subscribe_share.png)`\n")
+    writeParagragh("@snapend" , out)
+
 }
 
 fun writeKural(data: JSONObject, field: String, out: BufferedWriter, kuralNo : String = "\n"){
@@ -69,6 +106,18 @@ fun getKurals(adhigaramNo: Int): JSONArray {
     val json : JSONObject = response.jsonObject
 
     return json["Data"] as JSONArray
+}
+
+fun convertCamelCaseToWords(str: String) : String {
+    val result : StringBuilder = StringBuilder();
+    for (i in 0 until str.length) {
+        val ch = str[i]
+        if (Character.isUpperCase(ch) && i!=0)
+            result.append(" ").append(ch)
+        else
+            result.append(ch)
+    }
+    return result.toString()
 }
 
 fun convertHtmlBreaksToNewLines(value : Any) : String {
