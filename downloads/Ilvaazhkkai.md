@@ -6,7 +6,7 @@
 ### Title 
 
 
-திருக்குறள் 41 - 50 <ADHIGARAM> விளக்கம்  | Thirukkural Ilvaazhkkai Explanation  
+திருக்குறள் 41 - 50 <ADHIGARAM> விளக்கம்  | Thirukkural Explanation - Ilvaazhkkai  
 
 
 ### Description 
@@ -109,13 +109,13 @@ Theyvaththul  Vaikkap  Patum
 
 
 
-Thank you for watching this video. Please share your feedback in the comments. 
+Thank you for watching this video. Please comment on your favorite Thirukkural from this video below. 
 
 
 Please like and share it with others if you like this video 
 
 
-Please subscribe to our channel https://www.youtube.com/channel/UC4Xi_LjVkISzDW8-wpSAITA and hit bell button to get notified when we post new videos. 
+Please subscribe to our channel https://www.youtube.com/channel/UC4Xi_LjVkISzDW8-wpSAITA?sub_confirmation=1 and hit bell button to get notified when we post new videos. 
 
 
 Thanks for your support. 
@@ -284,15 +284,5 @@ Thanks for your support.
 
 
 --- 
-
-
-@snap[north span-100]
-## நன்றி 
-@snapend 
-
-
-@snap[span-100]
-`@img[width=300, height=150](assets/img/subscribe_share.png)`
-@snapend 
 
 

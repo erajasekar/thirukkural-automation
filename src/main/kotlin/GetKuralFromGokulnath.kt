@@ -45,9 +45,9 @@ fun writeYoutubeInfo(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray,
 
     out.newLine()
     out.newLine()
-    writeParagragh("Thank you for watching this video. Please share your feedback in the comments." , out)
+    writeParagragh("Thank you for watching this video. Please comment on your favorite Thirukkural from this video below." , out)
     writeParagragh("Please like and share it with others if you like this video", out)
-    writeParagragh("Please subscribe to our channel https://www.youtube.com/channel/UC4Xi_LjVkISzDW8-wpSAITA and hit bell button to get notified when we post new videos.", out)
+    writeParagragh("Please subscribe to our channel https://www.youtube.com/channel/UC4Xi_LjVkISzDW8-wpSAITA?sub_confirmation=1 and hit bell button to get notified when we post new videos.", out)
     writeParagragh("Thanks for your support.", out)
 }
 
@@ -58,7 +58,7 @@ fun writeParagragh(text: String, out: BufferedWriter) {
 fun writeTitle(adhigaramNo: Int, adhigaramName : String, adhigaramRange : String, out: BufferedWriter) {
     writeParagragh("### Title", out)
     val tamilPart = "திருக்குறள் ${adhigaramRange} <ADHIGARAM> விளக்கம் "
-    val engPart = "Thirukkural ${adhigaramName} Explanation"
+    val engPart = "Thirukkural Explanation - ${adhigaramName}"
     writeParagragh("${tamilPart} | ${engPart} ", out)
 }
 
@@ -85,13 +85,6 @@ fun writeMeaning(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray, out
     }
 
     writeParagragh("---", out)
-    out.write("@snap[north span-100]\n")
-    out.write("## நன்றி \n")
-    writeParagragh("@snapend" , out)
-    out.write("@snap[span-100]\n")
-    out.write("`@img[width=300, height=150](assets/img/subscribe_share.png)`\n")
-    writeParagragh("@snapend" , out)
-
 }
 
 fun writeKural(data: JSONObject, field: String, out: BufferedWriter, kuralNo : String = "\n"){
