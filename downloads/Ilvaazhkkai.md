@@ -35,6 +35,10 @@ Please see below for Thirukkurals  and their timestamps of explanation in this v
 Ilvaazhvaan Enpaan  Iyalputaiya  Moovarkkum
 Nallaatrin  Nindra  Thunai 		
 
+Meaning: 
+
+7 He will be called a (true) householder, who is a firm support to the virtuous of the three orders in		
+
 குறள் / Kural 42 - 00:00 
 
 துறந்தார்க்கும் துவ்வா தவர்க்கும் இறந்தார்க்கும்
@@ -42,6 +46,10 @@ Nallaatrin  Nindra  Thunai
 
 Thurandhaarkkum Thuvvaa  Dhavarkkum  Irandhaarkkum
 Ilvaazhvaan  Enpaan  Thunai 		
+
+Meaning: 
+
+He will be said to flourish in domestic virtue who aids the forsaken, the poor, and the dead		
 
 குறள் / Kural 43 - 00:00 
 
@@ -51,6 +59,10 @@ Ilvaazhvaan  Enpaan  Thunai
 Thenpulaththaar Theyvam  Virundhokkal  Thaanendraangu
 Aimpulaththaaru  Ompal  Thalai 		
 
+Meaning: 
+
+The chief (duty of the householder) is to preserve the five-fold rule (of conduct) towards the manes, the Gods, his guests, his relations and himself		
+
 குறள் / Kural 44 - 00:00 
 
 பழியஞ்சிப் பாத்தூண் உடைத்தாயின் வாழ்க்கை
@@ -58,6 +70,10 @@ Aimpulaththaaru  Ompal  Thalai
 
 Pazhiyanjip Paaththoon  Utaiththaayin  Vaazhkkai
 Vazhiyenjal  Egngnaandrum  Il 		
+
+Meaning: 
+
+His descendants shall never fail who, living in the domestic state, fears vice (in the acquisition of property) and shares his food (with others)		
 
 குறள் / Kural 45 - 00:00 
 
@@ -67,6 +83,10 @@ Vazhiyenjal  Egngnaandrum  Il
 Anpum Aranum  Utaiththaayin  Ilvaazhkkai
 Panpum  Payanum  Adhu 		
 
+Meaning: 
+
+If the married life possess love and virtue, these will be both its duty and reward		
+
 குறள் / Kural 46 - 00:00 
 
 அறத்தாற்றின் இல்வாழ்க்கை ஆற்றின் புறத்தாற்றில்
@@ -74,6 +94,10 @@ Panpum  Payanum  Adhu
 
 Araththaatrin Ilvaazhkkai  Aatrin  Puraththaatril
 Pooip  Peruva  Thevan? 		
+
+Meaning: 
+
+What will he who lives virtuously in the domestic state gain by going into the other, (ascetic) state ?		
 
 குறள் / Kural 47 - 00:00 
 
@@ -83,6 +107,10 @@ Pooip  Peruva  Thevan?
 Iyalpinaan Ilvaazhkkai  Vaazhpavan  Enpaan
 Muyalvaarul  Ellaam  Thalai 		
 
+Meaning: 
+
+Among all those who labour (for future happiness) he is greatest who lives well in the household state		
+
 குறள் / Kural 48 - 00:00 
 
 ஆற்றின் ஒழுக்கி அறனிழுக்கா இல்வாழ்க்கை
@@ -90,6 +118,10 @@ Muyalvaarul  Ellaam  Thalai
 
 Aatrin Ozhukki  Aranizhukkaa  Ilvaazhkkai
 Norpaarin  Nonmai  Utaiththu 		
+
+Meaning: 
+
+The householder who, not swerving from virtue, helps the ascetic in his way, endures more than those who endure penance		
 
 குறள் / Kural 49 - 00:00 
 
@@ -99,6 +131,10 @@ Norpaarin  Nonmai  Utaiththu
 Aran Enap  Pattadhe  Ilvaazhkkai  Aqdhum
 Piranpazhippa  Thillaayin  Nandru 		
 
+Meaning: 
+
+The marriage state is truly called virtue The other state is also good, if others do not reproach it		
+
 குறள் / Kural 50 - 00:00 
 
 வையத்துள் வாழ்வாங்கு வாழ்பவன் வான்உறையும்
@@ -106,6 +142,10 @@ Piranpazhippa  Thillaayin  Nandru
 
 Vaiyaththul Vaazhvaangu  Vaazhpavan  Vaanu�ryum
 Theyvaththul  Vaikkap  Patum 		
+
+Meaning: 
+
+He who on earth has lived in the conjugal state as he should live, will be placed among the Gods who dwell in heaven		
 
 
 

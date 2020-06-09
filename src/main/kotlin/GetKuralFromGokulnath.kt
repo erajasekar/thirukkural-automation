@@ -41,6 +41,8 @@ fun writeYoutubeInfo(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray,
         out.write("குறள் / Kural ${kuralNo} - 00:00 \n\n")
         writeKural(data, "Tamil", out);
         writeKural(data, "TamilTransliteration", out);
+        out.write("Meaning: \n\n")
+        writeKural(data, "EnglishMeaning", out);
     }
 
     out.newLine()
