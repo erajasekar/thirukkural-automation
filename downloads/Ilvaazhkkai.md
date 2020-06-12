@@ -170,10 +170,10 @@ Thanks for your support.
 நல்லாற்றின் நின்ற துணை		( குறள் - 41)
 ```
 @snap[span-100 text-left text-04]
-தொடரமைப்பு:  <TODO> 
+**தொடரமைப்பு:**  <TODO> 
 @snapend
 
-@snap[span-100 text-06 text-left]
+@snap[span-100 text-08 text-left]
 > <பொருள்:>
 
 @snapend
@@ -186,10 +186,10 @@ Thanks for your support.
 இல்வாழ்வான் என்பான் துணை		( குறள் - 42)
 ```
 @snap[span-100 text-left text-04]
-தொடரமைப்பு:  <TODO> 
+**தொடரமைப்பு:**  <TODO> 
 @snapend
 
-@snap[span-100 text-06 text-left]
+@snap[span-100 text-08 text-left]
 > <பொருள்:>
 
 @snapend
@@ -202,10 +202,10 @@ Thanks for your support.
 ஐம்புலத்தா றோம்பல் தலை		( குறள் - 43)
 ```
 @snap[span-100 text-left text-04]
-தொடரமைப்பு:  <TODO> 
+**தொடரமைப்பு:**  <TODO> 
 @snapend
 
-@snap[span-100 text-06 text-left]
+@snap[span-100 text-08 text-left]
 > <பொருள்:>
 
 @snapend
@@ -218,10 +218,10 @@ Thanks for your support.
 வழியெஞ்சல் எஞ்ஞான்றும் இல		( குறள் - 44)
 ```
 @snap[span-100 text-left text-04]
-தொடரமைப்பு:  <TODO> 
+**தொடரமைப்பு:**  <TODO> 
 @snapend
 
-@snap[span-100 text-06 text-left]
+@snap[span-100 text-08 text-left]
 > <பொருள்:>
 
 @snapend
@@ -234,10 +234,10 @@ Thanks for your support.
 பண்பும் பயனும் அது		( குறள் - 45)
 ```
 @snap[span-100 text-left text-04]
-தொடரமைப்பு:  <TODO> 
+**தொடரமைப்பு:**  <TODO> 
 @snapend
 
-@snap[span-100 text-06 text-left]
+@snap[span-100 text-08 text-left]
 > <பொருள்:>
 
 @snapend
@@ -250,10 +250,10 @@ Thanks for your support.
 போஒய்ப் பெறுவ தெவன்		( குறள் - 46)
 ```
 @snap[span-100 text-left text-04]
-தொடரமைப்பு:  <TODO> 
+**தொடரமைப்பு:**  <TODO> 
 @snapend
 
-@snap[span-100 text-06 text-left]
+@snap[span-100 text-08 text-left]
 > <பொருள்:>
 
 @snapend
@@ -266,10 +266,10 @@ Thanks for your support.
 முயல்வாருள் எல்லாம் தலை		( குறள் - 47)
 ```
 @snap[span-100 text-left text-04]
-தொடரமைப்பு:  <TODO> 
+**தொடரமைப்பு:**  <TODO> 
 @snapend
 
-@snap[span-100 text-06 text-left]
+@snap[span-100 text-08 text-left]
 > <பொருள்:>
 
 @snapend
@@ -282,10 +282,10 @@ Thanks for your support.
 நோற்பாரின் நோன்மை உடைத்து		( குறள் - 48)
 ```
 @snap[span-100 text-left text-04]
-தொடரமைப்பு:  <TODO> 
+**தொடரமைப்பு:**  <TODO> 
 @snapend
 
-@snap[span-100 text-06 text-left]
+@snap[span-100 text-08 text-left]
 > <பொருள்:>
 
 @snapend
@@ -298,10 +298,10 @@ Thanks for your support.
 பிறன்பழிப்ப தில்லாயின் நன்று		( குறள் - 49)
 ```
 @snap[span-100 text-left text-04]
-தொடரமைப்பு:  <TODO> 
+**தொடரமைப்பு:**  <TODO> 
 @snapend
 
-@snap[span-100 text-06 text-left]
+@snap[span-100 text-08 text-left]
 > <பொருள்:>
 
 @snapend
@@ -314,11 +314,20 @@ Thanks for your support.
 தெய்வத்துள் வைக்கப் படும்		( குறள் - 50)
 ```
 @snap[span-100 text-left text-04]
-தொடரமைப்பு:  <TODO> 
+**தொடரமைப்பு:**  <TODO> 
 @snapend
 
-@snap[span-100 text-06 text-left]
+@snap[span-100 text-08 text-left]
 > <பொருள்:>
+
+@snapend
+
+
+@snap[span-100 text-08 text-left]
+<div class="conclusion" >
+<CONCLUSION>
+
+</div>
 
 @snapend
 

@@ -78,14 +78,19 @@ fun writeMeaning(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray, out
         out.write("```\n")
 
         out.write("@snap[span-100 text-left text-04]\n")
-        out.write("தொடரமைப்பு:  <TODO> \n")
+        out.write("**தொடரமைப்பு:**  <TODO> \n")
         out.write("@snapend\n\n")
 
-        out.write("@snap[span-100 text-06 text-left]\n")
+        out.write("@snap[span-100 text-08 text-left]\n")
         out.write("> <பொருள்:>\n\n")
         out.write("@snapend\n\n\n")
     }
 
+    out.write("@snap[span-100 text-08 text-left]\n")
+    out.write("<div class=\"conclusion\" >\n")
+    out.write("<CONCLUSION>\n\n")
+    out.write("</div>\n\n")
+    out.write("@snapend\n\n\n")
     writeParagragh("---", out)
 }
 
