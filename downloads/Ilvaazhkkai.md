@@ -35,9 +35,11 @@ Please see below for Thirukkurals  and their timestamps of explanation in this v
 Ilvaazhvaan Enpaan  Iyalputaiya  Moovarkkum
 Nallaatrin  Nindra  Thunai 		
 
-Meaning: 
+English Meaning: 
 
 7 He will be called a (true) householder, who is a firm support to the virtuous of the three orders in		
+
+Keywords : 
 
 குறள் / Kural 42 - 00:00 
 
@@ -47,9 +49,11 @@ Meaning:
 Thurandhaarkkum Thuvvaa  Dhavarkkum  Irandhaarkkum
 Ilvaazhvaan  Enpaan  Thunai 		
 
-Meaning: 
+English Meaning: 
 
 He will be said to flourish in domestic virtue who aids the forsaken, the poor, and the dead		
+
+Keywords : 
 
 குறள் / Kural 43 - 00:00 
 
@@ -59,9 +63,11 @@ He will be said to flourish in domestic virtue who aids the forsaken, the poor, 
 Thenpulaththaar Theyvam  Virundhokkal  Thaanendraangu
 Aimpulaththaaru  Ompal  Thalai 		
 
-Meaning: 
+English Meaning: 
 
 The chief (duty of the householder) is to preserve the five-fold rule (of conduct) towards the manes, the Gods, his guests, his relations and himself		
+
+Keywords : 
 
 குறள் / Kural 44 - 00:00 
 
@@ -71,9 +77,11 @@ The chief (duty of the householder) is to preserve the five-fold rule (of conduc
 Pazhiyanjip Paaththoon  Utaiththaayin  Vaazhkkai
 Vazhiyenjal  Egngnaandrum  Il 		
 
-Meaning: 
+English Meaning: 
 
 His descendants shall never fail who, living in the domestic state, fears vice (in the acquisition of property) and shares his food (with others)		
+
+Keywords : 
 
 குறள் / Kural 45 - 00:00 
 
@@ -83,9 +91,11 @@ His descendants shall never fail who, living in the domestic state, fears vice (
 Anpum Aranum  Utaiththaayin  Ilvaazhkkai
 Panpum  Payanum  Adhu 		
 
-Meaning: 
+English Meaning: 
 
 If the married life possess love and virtue, these will be both its duty and reward		
+
+Keywords : 
 
 குறள் / Kural 46 - 00:00 
 
@@ -95,9 +105,11 @@ If the married life possess love and virtue, these will be both its duty and rew
 Araththaatrin Ilvaazhkkai  Aatrin  Puraththaatril
 Pooip  Peruva  Thevan? 		
 
-Meaning: 
+English Meaning: 
 
 What will he who lives virtuously in the domestic state gain by going into the other, (ascetic) state ?		
+
+Keywords : 
 
 குறள் / Kural 47 - 00:00 
 
@@ -107,9 +119,11 @@ What will he who lives virtuously in the domestic state gain by going into the o
 Iyalpinaan Ilvaazhkkai  Vaazhpavan  Enpaan
 Muyalvaarul  Ellaam  Thalai 		
 
-Meaning: 
+English Meaning: 
 
 Among all those who labour (for future happiness) he is greatest who lives well in the household state		
+
+Keywords : 
 
 குறள் / Kural 48 - 00:00 
 
@@ -119,9 +133,11 @@ Among all those who labour (for future happiness) he is greatest who lives well 
 Aatrin Ozhukki  Aranizhukkaa  Ilvaazhkkai
 Norpaarin  Nonmai  Utaiththu 		
 
-Meaning: 
+English Meaning: 
 
 The householder who, not swerving from virtue, helps the ascetic in his way, endures more than those who endure penance		
+
+Keywords : 
 
 குறள் / Kural 49 - 00:00 
 
@@ -131,9 +147,11 @@ The householder who, not swerving from virtue, helps the ascetic in his way, end
 Aran Enap  Pattadhe  Ilvaazhkkai  Aqdhum
 Piranpazhippa  Thillaayin  Nandru 		
 
-Meaning: 
+English Meaning: 
 
 The marriage state is truly called virtue The other state is also good, if others do not reproach it		
+
+Keywords : 
 
 குறள் / Kural 50 - 00:00 
 
@@ -143,9 +161,11 @@ The marriage state is truly called virtue The other state is also good, if other
 Vaiyaththul Vaazhvaangu  Vaazhpavan  Vaanu�ryum
 Theyvaththul  Vaikkap  Patum 		
 
-Meaning: 
+English Meaning: 
 
 He who on earth has lived in the conjugal state as he should live, will be placed among the Gods who dwell in heaven		
+
+Keywords : 
 
 
 
