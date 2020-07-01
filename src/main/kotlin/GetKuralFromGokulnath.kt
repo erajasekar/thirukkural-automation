@@ -70,7 +70,7 @@ fun writeMeaning(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray, out
     var i = 1;
 
     out.write("---?include=includes/${adhigaramName}.md \n\n")
-    out.write("<ADHIGHARAM INTRO> \n\n")
+    out.write("### <ADHIGHARAM INTRO> \n\n")
 
     for (kural in kurals) {
         val data : JSONObject = kural as JSONObject;
@@ -78,16 +78,16 @@ fun writeMeaning(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray, out
         val kuralNoStr = "( குறள் - ${kuralNo})"
 
         out.write("---?include=includes/${adhigaramName}.md \n\n")
-        out.write("<KURAL ${kuralNo} INTRO> \n\n")
+        out.write("### <KURAL ${kuralNo} INTRO> \n\n")
 
         out.write("---?include=includes/${adhigaramName}.md \n\n")
         out.write("```\n")
         writeKural(data, "Tamil", out, kuralNoStr);
         out.write("```\n")
 
-        out.write("@snap[span-100 text-left text-04]\n")
+        /*out.write("@snap[span-100 text-left text-04]\n")
         out.write("**தொடரமைப்பு:**  <TODO> \n")
-        out.write("@snapend\n\n")
+        out.write("@snapend\n\n")*/
 
         out.write("@snap[span-100 text-08 text-left]\n")
         out.write("> <பொருள்:>\n\n")
@@ -99,6 +99,9 @@ fun writeMeaning(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray, out
     out.write("<CONCLUSION>\n\n")
     out.write("</div>\n\n")
     out.write("@snapend\n\n\n")
+    writeParagragh("---?include=includes/${adhigaramName}.md", out)
+    writeParagragh("`@img[width=200, height=200](assets/img/comment-button.png)`", out)
+    writeParagragh("###### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க.", out)
     writeParagragh("---", out)
 }
 
