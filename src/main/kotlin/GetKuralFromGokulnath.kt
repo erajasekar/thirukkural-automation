@@ -68,10 +68,17 @@ fun writeTitle(adhigaramNo: Int, adhigaramName : String, adhigaramRange : String
 fun writeMeaning(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray, out: BufferedWriter){
     out.write("## Meaning \n\n")
     var i = 1;
+
+    out.write("---?include=includes/${adhigaramName}.md \n\n")
+    out.write("<ADHIGHARAM INTRO> \n\n")
+
     for (kural in kurals) {
         val data : JSONObject = kural as JSONObject;
         val kuralNo = (adhigaramNo - 1) * 10 + (i++)
         val kuralNoStr = "( குறள் - ${kuralNo})"
+
+        out.write("---?include=includes/${adhigaramName}.md \n\n")
+        out.write("<KURAL ${kuralNo} INTRO> \n\n")
 
         out.write("---?include=includes/${adhigaramName}.md \n\n")
         out.write("```\n")
