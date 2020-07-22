@@ -28,7 +28,7 @@ fun writeYoutubeInfo(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray,
     writeParagragh("## YouTube", out)
     writeTitle(adhigaramNo, adhigaramNameWords, adhigaramRange, out);
     writeParagragh("### Description", out)
-    writeParagragh("உயர் வாழ்க்கைக்கு திருக்குறள் கற்போம் - அதிகாரம் செய்ந்நன்றியறிதல் - குறள்கள் ${adhigaramRange} ", out)
+    writeParagragh("உயர் வாழ்க்கைக்கு திருக்குறள் கற்போம் - அதிகாரம் <ADHIGARAM> - குறள்கள் ${adhigaramRange} ", out)
     writeParagragh("Learn Thirrukural for Extraordinary Life - Adhigaram ${adhigaramNameWords} - Kurals ${adhigaramRange} #Thirukkural #Thiruvalluvar #Kural ", out)
     writeParagragh("இந்த காணொளியில் உள்ள தகவல்கள்" , out);
     writeParagragh("<THUMBNAIL POINTS>", out)
@@ -60,7 +60,7 @@ fun writeParagragh(text: String, out: BufferedWriter) {
 
 fun writeTitle(adhigaramNo: Int, adhigaramName : String, adhigaramRange : String, out: BufferedWriter) {
     writeParagragh("### Title", out)
-    val tamilPart = "உயர் வாழ்க்கைக்கு திருக்குறள் - அதிகாரம் <ADHIGARAM>"
+    val tamilPart = "உயர் வாழ்க்கைக்கு திருக்குறள் - <ADHIGARAM>"
     val engPart = "Thirukkural for Extraordinary Life"
     writeParagragh("${tamilPart} | ${engPart} ", out)
 }

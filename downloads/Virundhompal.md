@@ -6,16 +6,16 @@
 ### Title 
 
 
-திருக்குறள் 81 - 90 <ADHIGARAM> விளக்கம்  | Thirukkural Explanation - Virundhompal  
+உயர் வாழ்க்கைக்கு திருக்குறள் - <ADHIGARAM> | Thirukkural for Extraordinary Life  
 
 
 ### Description 
 
 
-திருக்குறள்  - <ADHIGARAM> அதிகாரத்தில் உள்ள (81 - 90) குறள்களின் எளிய  விளக்கம்  
+உயர் வாழ்க்கைக்கு திருக்குறள் கற்போம் - அதிகாரம் <ADHIGARAM> - குறள்கள் 81 - 90  
 
 
-Simple Explanation of Thirukkurals 81 - 90 in Virundhompal Adhigaram #Thirukkural #Thiruvalluvar #Kural  
+Learn Thirrukural for Extraordinary Life - Adhigaram Virundhompal - Kurals 81 - 90 #Thirukkural #Thiruvalluvar #Kural  
 
 
 இந்த காணொளியில் உள்ள தகவல்கள் 
@@ -145,11 +145,11 @@ Thanks for your support.
 
 ---?include=includes/Virundhompal.md 
 
-<ADHIGHARAM INTRO> 
+### <ADHIGHARAM INTRO> 
 
 ---?include=includes/Virundhompal.md 
 
-<KURAL 81 INTRO> 
+### <KURAL 81 INTRO> 
 
 ---?include=includes/Virundhompal.md 
 
@@ -157,10 +157,6 @@ Thanks for your support.
 இருந்தோம்பி இல்வாழ்வ தெல்லாம் விருந்தோம்பி
 வேளாண்மை செய்தற் பொருட்டு		( குறள் - 81)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
-
 @snap[span-100 text-08 text-left]
 > <பொருள்:>
 
@@ -169,7 +165,7 @@ Thanks for your support.
 
 ---?include=includes/Virundhompal.md 
 
-<KURAL 82 INTRO> 
+### <KURAL 82 INTRO> 
 
 ---?include=includes/Virundhompal.md 
 
@@ -177,10 +173,6 @@ Thanks for your support.
 விருந்து புறத்ததாத் தானுண்டல் சாவா
 மருந்தெனினும் வேண்டற்பாற் றன்று		( குறள் - 82)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
-
 @snap[span-100 text-08 text-left]
 > <பொருள்:>
 
@@ -189,7 +181,7 @@ Thanks for your support.
 
 ---?include=includes/Virundhompal.md 
 
-<KURAL 83 INTRO> 
+### <KURAL 83 INTRO> 
 
 ---?include=includes/Virundhompal.md 
 
@@ -197,10 +189,6 @@ Thanks for your support.
 வருவிருந்து வைகலும் ஓம்புவான் வாழ்க்கை
 பருவந்து பாழ்படுதல் இன்று		( குறள் - 83)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
-
 @snap[span-100 text-08 text-left]
 > <பொருள்:>
 
@@ -209,7 +197,7 @@ Thanks for your support.
 
 ---?include=includes/Virundhompal.md 
 
-<KURAL 84 INTRO> 
+### <KURAL 84 INTRO> 
 
 ---?include=includes/Virundhompal.md 
 
@@ -217,10 +205,6 @@ Thanks for your support.
 அகனமர்ந்து செய்யாள் உறையும் முகனமர்ந்து
 நல்விருந் தோம்புவான் இல்		( குறள் - 84)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
-
 @snap[span-100 text-08 text-left]
 > <பொருள்:>
 
@@ -229,7 +213,7 @@ Thanks for your support.
 
 ---?include=includes/Virundhompal.md 
 
-<KURAL 85 INTRO> 
+### <KURAL 85 INTRO> 
 
 ---?include=includes/Virundhompal.md 
 
@@ -237,10 +221,6 @@ Thanks for your support.
 வித்தும் இடல்வேண்டும் கொல்லோ விருந்தோம்பி
 மிச்சில் மிசைவான் புலம்		( குறள் - 85)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
-
 @snap[span-100 text-08 text-left]
 > <பொருள்:>
 
@@ -249,7 +229,7 @@ Thanks for your support.
 
 ---?include=includes/Virundhompal.md 
 
-<KURAL 86 INTRO> 
+### <KURAL 86 INTRO> 
 
 ---?include=includes/Virundhompal.md 
 
@@ -257,10 +237,6 @@ Thanks for your support.
 செல்விருந் தோம்பி வருவிருந்து பார்த்திருப்பான்
 நல்விருந்து வானத் தவர்க்கு		( குறள் - 86)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
-
 @snap[span-100 text-08 text-left]
 > <பொருள்:>
 
@@ -269,7 +245,7 @@ Thanks for your support.
 
 ---?include=includes/Virundhompal.md 
 
-<KURAL 87 INTRO> 
+### <KURAL 87 INTRO> 
 
 ---?include=includes/Virundhompal.md 
 
@@ -277,10 +253,6 @@ Thanks for your support.
 இனைத்துணைத் தென்பதொன் றில்லை விருந்தின்
 துணைத்துணை வேள்விப் பயன்		( குறள் - 87)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
-
 @snap[span-100 text-08 text-left]
 > <பொருள்:>
 
@@ -289,7 +261,7 @@ Thanks for your support.
 
 ---?include=includes/Virundhompal.md 
 
-<KURAL 88 INTRO> 
+### <KURAL 88 INTRO> 
 
 ---?include=includes/Virundhompal.md 
 
@@ -297,10 +269,6 @@ Thanks for your support.
 பரிந்தோம்பிப் பற்றற்றேம் என்பர் விருந்தோம்பி
 வேள்வி தலைப்படா தார்		( குறள் - 88)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
-
 @snap[span-100 text-08 text-left]
 > <பொருள்:>
 
@@ -309,7 +277,7 @@ Thanks for your support.
 
 ---?include=includes/Virundhompal.md 
 
-<KURAL 89 INTRO> 
+### <KURAL 89 INTRO> 
 
 ---?include=includes/Virundhompal.md 
 
@@ -317,10 +285,6 @@ Thanks for your support.
 உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா
 மடமை மடவார்கண் உண்டு		( குறள் - 89)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
-
 @snap[span-100 text-08 text-left]
 > <பொருள்:>
 
@@ -329,7 +293,7 @@ Thanks for your support.
 
 ---?include=includes/Virundhompal.md 
 
-<KURAL 90 INTRO> 
+### <KURAL 90 INTRO> 
 
 ---?include=includes/Virundhompal.md 
 
@@ -337,10 +301,6 @@ Thanks for your support.
 மோப்பக் குழையும் அனிச்சம் முகந்திரிந்து
 நோக்கக் குழையும் விருந்து		( குறள் - 90)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
-
 @snap[span-100 text-08 text-left]
 > <பொருள்:>
 
@@ -354,6 +314,15 @@ Thanks for your support.
 </div>
 
 @snapend
+
+
+---?include=includes/Virundhompal.md 
+
+
+`@img[width=200, height=200](assets/img/comment-button.png)` 
+
+
+###### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க. 
 
 
 --- 

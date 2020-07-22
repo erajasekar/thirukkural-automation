@@ -6,16 +6,16 @@
 ### Title 
 
 
-திருக்குறள் 91 - 100 <ADHIGARAM> விளக்கம்  | Thirukkural Explanation - Iniyavai Kooral  
+உயர் வாழ்க்கைக்கு திருக்குறள் - அதிகாரம் <ADHIGARAM> | Thirukkural for Extraordinary Life  
 
 
 ### Description 
 
 
-திருக்குறள்  - <ADHIGARAM> அதிகாரத்தில் உள்ள (91 - 100) குறள்களின் எளிய  விளக்கம்  
+உயர் வாழ்க்கைக்கு திருக்குறள் கற்போம் - அதிகாரம் செய்ந்நன்றியறிதல் - குறள்கள் 91 - 100  
 
 
-Simple Explanation of Thirukkurals 91 - 100 in Iniyavai Kooral Adhigaram #Thirukkural #Thiruvalluvar #Kural  
+Learn Thirrukural for Extraordinary Life - Adhigaram Iniyavai Kooral - Kurals 91 - 100 #Thirukkural #Thiruvalluvar #Kural  
 
 
 இந்த காணொளியில் உள்ள தகவல்கள் 
@@ -145,7 +145,7 @@ Thanks for your support.
 
 ---?include=includes/IniyavaiKooral.md 
 
-<ADHIGHARAM INTRO> 
+### <ADHIGHARAM INTRO> 
 
 ---?include=includes/IniyavaiKooral.md 
 
