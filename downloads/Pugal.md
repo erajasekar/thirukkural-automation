@@ -1,4 +1,4 @@
-# pugal 
+# Pugal 
 
 ## YouTube 
 
@@ -15,7 +15,7 @@
 உயர் வாழ்க்கைக்கு திருக்குறள் கற்போம் - அதிகாரம் <ADHIGARAM> - குறள்கள் 231 - 240  
 
 
-Learn Thirrukural for Extraordinary Life - Adhigaram pugal - Kurals 231 - 240 #Thirukkural #Thiruvalluvar #Kural  
+Learn Thirrukural for Extraordinary Life - Adhigaram Pugal - Kurals 231 - 240 #Thirukkural #Thiruvalluvar #Kural  
 
 
 இந்த காணொளியில் உள்ள தகவல்கள் 
@@ -143,15 +143,15 @@ Thanks for your support.
 
 ## Meaning 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ### <ADHIGHARAM INTRO> 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ### <KURAL 231 INTRO> 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ```
 ஈத லிசைபட வாழ்தல் அதுவல்ல
@@ -163,11 +163,11 @@ Thanks for your support.
 @snapend
 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ### <KURAL 232 INTRO> 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ```
 உரைப்பா ருரைப்பவை யெல்லாம் இரப்பார்க்கொன்
@@ -179,11 +179,11 @@ Thanks for your support.
 @snapend
 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ### <KURAL 233 INTRO> 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ```
 ஒன்றா உலகத் துயர்ந்த புகழல்லாற்
@@ -195,11 +195,11 @@ Thanks for your support.
 @snapend
 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ### <KURAL 234 INTRO> 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ```
 நிலவரை நீள்புகழ் ஆற்றின் புலவரைப்
@@ -211,11 +211,11 @@ Thanks for your support.
 @snapend
 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ### <KURAL 235 INTRO> 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ```
 நத்தம்போல் கேடும் உளதாகுஞ் சாக்காடும்
@@ -227,11 +227,11 @@ Thanks for your support.
 @snapend
 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ### <KURAL 236 INTRO> 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ```
 தோன்றின் புகழோடு தோன்றுக அஃதிலார்
@@ -243,11 +243,11 @@ Thanks for your support.
 @snapend
 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ### <KURAL 237 INTRO> 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ```
 புகழ்பட வாழாதார் தந்நோவார் தம்மை
@@ -259,11 +259,11 @@ Thanks for your support.
 @snapend
 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ### <KURAL 238 INTRO> 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ```
 வசையென்ப வையத்தார்க் கெல்லாம் இசையென்னும்
@@ -275,11 +275,11 @@ Thanks for your support.
 @snapend
 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ### <KURAL 239 INTRO> 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ```
 வசையிலா வண்பயன் குன்றும் இசையிலா
@@ -291,11 +291,11 @@ Thanks for your support.
 @snapend
 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ### <KURAL 240 INTRO> 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 ```
 வசையொழிய வாழ்வாரே வாழ்வார் இசையொழிய
@@ -316,7 +316,7 @@ Thanks for your support.
 @snapend
 
 
----?include=includes/pugal.md 
+---?include=includes/Pugal.md 
 
 
 `@img[width=200, height=200](assets/img/comment-button.png)` 
