@@ -157,12 +157,6 @@ Thanks for your support.
 ஈத லிசைபட வாழ்தல் அதுவல்ல
 தூதிய மில்லை உயிர்க்கு		( குறள் - 231)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Pugal.md 
 
 ### <KURAL 232 INTRO> 
@@ -173,12 +167,6 @@ Thanks for your support.
 உரைப்பா ருரைப்பவை யெல்லாம் இரப்பார்க்கொன்
 றீவார்மேல் நிற்கும் புகழ்		( குறள் - 232)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Pugal.md 
 
 ### <KURAL 233 INTRO> 
@@ -189,12 +177,6 @@ Thanks for your support.
 ஒன்றா உலகத் துயர்ந்த புகழல்லாற்
 பொன்றாது நிற்பதொன் றில்		( குறள் - 233)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Pugal.md 
 
 ### <KURAL 234 INTRO> 
@@ -205,12 +187,6 @@ Thanks for your support.
 நிலவரை நீள்புகழ் ஆற்றின் புலவரைப்
 போற்றாது புத்தே ளுலகு		( குறள் - 234)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Pugal.md 
 
 ### <KURAL 235 INTRO> 
@@ -221,12 +197,6 @@ Thanks for your support.
 நத்தம்போல் கேடும் உளதாகுஞ் சாக்காடும்
 வித்தகர்க் கல்லால் அரிது		( குறள் - 235)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Pugal.md 
 
 ### <KURAL 236 INTRO> 
@@ -237,12 +207,6 @@ Thanks for your support.
 தோன்றின் புகழோடு தோன்றுக அஃதிலார்
 தோன்றலின் தோன்றாமை நன்று		( குறள் - 236)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Pugal.md 
 
 ### <KURAL 237 INTRO> 
@@ -253,12 +217,6 @@ Thanks for your support.
 புகழ்பட வாழாதார் தந்நோவார் தம்மை
 இகழ்வாரை நோவ தெவன்		( குறள் - 237)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Pugal.md 
 
 ### <KURAL 238 INTRO> 
@@ -269,12 +227,6 @@ Thanks for your support.
 வசையென்ப வையத்தார்க் கெல்லாம் இசையென்னும்
 எச்சம் பெறாஅ விடின்		( குறள் - 238)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Pugal.md 
 
 ### <KURAL 239 INTRO> 
@@ -285,12 +237,6 @@ Thanks for your support.
 வசையிலா வண்பயன் குன்றும் இசையிலா
 யாக்கை பொறுத்த நிலம்		( குறள் - 239)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Pugal.md 
 
 ### <KURAL 240 INTRO> 
@@ -301,12 +247,6 @@ Thanks for your support.
 வசையொழிய வாழ்வாரே வாழ்வார் இசையொழிய
 வாழ்வாரே வாழா தவர்		( குறள் - 240)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 <CONCLUSION>

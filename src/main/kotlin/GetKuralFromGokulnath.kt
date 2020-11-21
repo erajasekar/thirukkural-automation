@@ -13,13 +13,31 @@ fun writeKuralsToFile(adhigaramNo: Int, adhigaramName: String) {
     val kurals = getKurals(adhigaramNo);
 
     var outFile = File("downloads/${adhigaramName}.md");
+    var websiteOutFile = File("downloads/${adhigaramName}-website.md");
 
     outFile.bufferedWriter().use { out ->
         out.write("# ${adhigaramName} \n\n")
         writeYoutubeInfo(adhigaramNo, adhigaramName,  kurals, out);
         writeMeaning(adhigaramNo, adhigaramName, kurals, out);
     }
+
+    websiteOutFile.bufferedWriter().use { out ->
+        writeParagragh("# திருக்குறள் - <ADHIGARAM>" , out);
+        writeParagragh("# இந்த காணொளியில் உள்ள தகவல்கள்" , out);
+        writeKuralsForWebsite(adhigaramNo, kurals, out);
+    }
     println("Written to ${outFile}")
+}
+
+fun writeKuralsForWebsite( adhigaramNo: Int, kurals: JSONArray, out: BufferedWriter ) {
+    var i = 1;
+    for (kural in kurals) {
+        val kuralNo = (adhigaramNo - 1) * 10 + (i++)
+        out.write("**குறள் : ${kuralNo}**\n")
+        val data: JSONObject = kural as JSONObject;
+        writeKural(data, "Tamil", out, "");
+        writeKural(data, "TamilTransliteration", out);
+    }
 }
 
 fun writeYoutubeInfo(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray, out: BufferedWriter){
@@ -87,11 +105,11 @@ fun writeMeaning(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray, out
 
         /*out.write("@snap[span-100 text-left text-04]\n")
         out.write("**தொடரமைப்பு:**  <TODO> \n")
-        out.write("@snapend\n\n")*/
+        out.write("@snapend\n\n")
 
         out.write("@snap[span-100 text-08 text-left]\n")
         out.write("> <பொருள்:>\n\n")
-        out.write("@snapend\n\n\n")
+        out.write("@snapend\n\n\n")*/
     }
 
     out.write("@snap[span-100 text-08 text-left]\n")
