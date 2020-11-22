@@ -51,6 +51,7 @@ fun writeYoutubeInfo(adhigaramNo: Int, adhigaramName: String, kurals: JSONArray,
     writeParagragh("இந்த காணொளியில் உள்ள தகவல்கள்" , out);
     writeParagragh("<THUMBNAIL POINTS>", out)
     writeParagragh("Please see below for Thirukkurals  and their timestamps of explanation in this video." , out)
+    writeParagragh("Introduction - 00:00", out);
 
     var i = 1;
     for (kural in kurals) {

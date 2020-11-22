@@ -27,6 +27,9 @@ Learn Thirrukural for Extraordinary Life - Adhigaram Pugal - Kurals 231 - 240 #T
 Please see below for Thirukkurals  and their timestamps of explanation in this video. 
 
 
+Introduction - 00:00 
+
+
 குறள் / Kural 231 - 00:00 
 
 ஈத லிசைபட வாழ்தல் அதுவல்ல
