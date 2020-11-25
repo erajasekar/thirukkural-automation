@@ -33,10 +33,12 @@ fun writeKuralsForWebsite( adhigaramNo: Int, kurals: JSONArray, out: BufferedWri
     var i = 1;
     for (kural in kurals) {
         val kuralNo = (adhigaramNo - 1) * 10 + (i++)
-        out.write("குறள் : ${kuralNo}\n")
+        out.write("***குறள் : ${kuralNo}***\n\n")
+        out.write("```\n")
         val data: JSONObject = kural as JSONObject;
-        writeKural(data, "Tamil", out, "");
-        writeKural(data, "TamilTransliteration", out);
+        writeKural(data, "Tamil", out);
+        writeKural(data, "TamilTransliteration", out,"");
+        out.write("```\n\n")
     }
 }
 
