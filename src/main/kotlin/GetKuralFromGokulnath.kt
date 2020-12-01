@@ -23,7 +23,7 @@ fun writeKuralsToFile(adhigaramNo: Int, adhigaramName: String) {
 
     websiteOutFile.bufferedWriter().use { out ->
         writeParagragh("# திருக்குறள் - <ADHIGARAM>" , out);
-        writeParagragh("# இந்த காணொளியில் உள்ள தகவல்கள்" , out);
+        writeParagragh("இந்த காணொளியில் உள்ள தகவல்கள்" , out);
         writeKuralsForWebsite(adhigaramNo, kurals, out);
     }
     println("Written to ${outFile}")
