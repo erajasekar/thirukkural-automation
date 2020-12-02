@@ -27,6 +27,9 @@ Learn Thirrukural for Extraordinary Life - Adhigaram Theevinai Achcham - Kurals 
 Please see below for Thirukkurals  and their timestamps of explanation in this video. 
 
 
+Introduction - 00:00 
+
+
 குறள் / Kural 201 - 00:00 
 
 தீவினையார் அஞ்சார் விழுமியார் அஞ்சுவர்
@@ -157,12 +160,6 @@ Thanks for your support.
 தீவினையார் அஞ்சார் விழுமியார் அஞ்சுவர்
 தீவினை யென்னுஞ் செறுக்கு		( குறள் - 201)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/TheevinaiAchcham.md 
 
 ### <KURAL 202 INTRO> 
@@ -173,12 +170,6 @@ Thanks for your support.
 தீயவை தீய பயத்தலால் தீயவை
 தீயினும் அஞ்சப் படும்		( குறள் - 202)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/TheevinaiAchcham.md 
 
 ### <KURAL 203 INTRO> 
@@ -189,12 +180,6 @@ Thanks for your support.
 அறிவினு ளெல்லாந் தலையென்ப தீய
 செறுவார்க்குஞ் செய்யா விடல்		( குறள் - 203)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/TheevinaiAchcham.md 
 
 ### <KURAL 204 INTRO> 
@@ -205,12 +190,6 @@ Thanks for your support.
 மறந்தும் பிறன்கேடு சூழற்க சூழின்
 அறஞ்சூழுஞ் சூழ்ந்தவன் கேடு		( குறள் - 204)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/TheevinaiAchcham.md 
 
 ### <KURAL 205 INTRO> 
@@ -221,12 +200,6 @@ Thanks for your support.
 இலனென்று தீயவை செய்யற்க செய்யின்
 இலனாகும் மற்றுப் பெயர்த்து		( குறள் - 205)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/TheevinaiAchcham.md 
 
 ### <KURAL 206 INTRO> 
@@ -237,12 +210,6 @@ Thanks for your support.
 தீப்பால தான்பிறர்கண் செய்யற்க நோய்ப்பால
 தன்னை அடல்வேண்டா தான்		( குறள் - 206)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/TheevinaiAchcham.md 
 
 ### <KURAL 207 INTRO> 
@@ -253,12 +220,6 @@ Thanks for your support.
 எனைப்பகை யுற்றாரும் உய்வர் வினைப்பகை
 வீயாது பின்சென் றடும்		( குறள் - 207)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/TheevinaiAchcham.md 
 
 ### <KURAL 208 INTRO> 
@@ -269,12 +230,6 @@ Thanks for your support.
 தீயவை செய்தார் கெடுதல் நிழல்தன்னை
 வீயா தடியுறைந் தற்று		( குறள் - 208)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/TheevinaiAchcham.md 
 
 ### <KURAL 209 INTRO> 
@@ -285,12 +240,6 @@ Thanks for your support.
 தன்னைத்தான் காதல னாயின் எனைத்தொன்றுந்
 துன்னற்க தீவினைப் பால்		( குறள் - 209)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/TheevinaiAchcham.md 
 
 ### <KURAL 210 INTRO> 
@@ -301,12 +250,6 @@ Thanks for your support.
 அருங்கேடன் என்ப தறிக மருங்கோடித்
 தீவினை செய்யான் எனின்		( குறள் - 210)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 <CONCLUSION>
