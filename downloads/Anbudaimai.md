@@ -6,16 +6,16 @@
 ### Title 
 
 
-திருக்குறள் 71 - 80 <ADHIGARAM> விளக்கம்  | Thirukkural Explanation - Anbudaimai  
+உயர் வாழ்க்கைக்கு திருக்குறள் - <ADHIGARAM> | Thirukkural for Extraordinary Life  
 
 
 ### Description 
 
 
-திருக்குறள்  - <ADHIGARAM> அதிகாரத்தில் உள்ள (71 - 80) குறள்களின் எளிய  விளக்கம்  
+உயர் வாழ்க்கைக்கு திருக்குறள் கற்போம் - அதிகாரம் <ADHIGARAM> - குறள்கள் 71 - 80  
 
 
-Simple Explanation of Thirukkurals 71 - 80 in Anbudaimai Adhigaram #Thirukkural #Thiruvalluvar #Kural  
+Learn Thirrukural for Extraordinary Life - Adhigaram Anbudaimai - Kurals 71 - 80 #Thirukkural #Thiruvalluvar #Kural  
 
 
 இந்த காணொளியில் உள்ள தகவல்கள் 
@@ -25,6 +25,9 @@ Simple Explanation of Thirukkurals 71 - 80 in Anbudaimai Adhigaram #Thirukkural 
 
 
 Please see below for Thirukkurals  and their timestamps of explanation in this video. 
+
+
+Introduction - 00:00 
 
 
 குறள் / Kural 71 - 00:00 
@@ -145,19 +148,21 @@ Thanks for your support.
 
 ---?include=includes/Anbudaimai.md 
 
+### <ADHIGHARAM INTRO> 
+
+---?include=includes/Anbudaimai.md 
+
+### <KURAL 71 INTRO> 
+
+---?include=includes/Anbudaimai.md 
+
 ```
 அன்பிற்கும் உண்டோ அடைக்குந்தாழ் ஆர்வலர்
 புண்கணீர் பூசல் தரும்		( குறள் - 71)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Anbudaimai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 72 INTRO> 
 
 ---?include=includes/Anbudaimai.md 
 
@@ -165,15 +170,9 @@ Thanks for your support.
 அன்பிலார் எல்லாம் தமக்குரியர் அன்புடையார்
 என்பும் உரியர் பிறர்க்கு		( குறள் - 72)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Anbudaimai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 73 INTRO> 
 
 ---?include=includes/Anbudaimai.md 
 
@@ -181,15 +180,9 @@ Thanks for your support.
 அன்போ டியைந்த வழக்கென்ப ஆருயிர்க்கு
 என்போ டியைந்த தொடர்பு		( குறள் - 73)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Anbudaimai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 74 INTRO> 
 
 ---?include=includes/Anbudaimai.md 
 
@@ -197,15 +190,9 @@ Thanks for your support.
 அன்பீனும் ஆர்வம் உடைமை அதுஈனும்
 நண்பென்னும் நாடாச் சிறப்பு		( குறள் - 74)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Anbudaimai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 75 INTRO> 
 
 ---?include=includes/Anbudaimai.md 
 
@@ -213,15 +200,9 @@ Thanks for your support.
 அன்புற் றமர்ந்த வழக்கென்ப வையகத்து
 இன்புற்றார் எய்தும் சிறப்பு		( குறள் - 75)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Anbudaimai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 76 INTRO> 
 
 ---?include=includes/Anbudaimai.md 
 
@@ -229,15 +210,9 @@ Thanks for your support.
 அறத்திற்கே அன்புசார் பென்ப அறியார்
 மறத்திற்கும் அஃதே துணை		( குறள் - 76)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Anbudaimai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 77 INTRO> 
 
 ---?include=includes/Anbudaimai.md 
 
@@ -245,15 +220,9 @@ Thanks for your support.
 என்பி லதனை வெயில்போலக் காயுமே
 அன்பி லதனை அறம்		( குறள் - 77)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Anbudaimai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 78 INTRO> 
 
 ---?include=includes/Anbudaimai.md 
 
@@ -261,15 +230,9 @@ Thanks for your support.
 அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண்
 வற்றல் மரந்தளிர்த் தற்று		( குறள் - 78)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Anbudaimai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 79 INTRO> 
 
 ---?include=includes/Anbudaimai.md 
 
@@ -277,15 +240,9 @@ Thanks for your support.
 புறத்துறுப் பெல்லாம் எவன்செய்யும் யாக்கை
 அகத்துறுப் பன்பி லவர்க்கு		( குறள் - 79)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Anbudaimai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 80 INTRO> 
 
 ---?include=includes/Anbudaimai.md 
 
@@ -293,16 +250,6 @@ Thanks for your support.
 அன்பின் வழிய துயிர்நிலை அஃதிலார்க்கு
 என்புதோல் போர்த்த உடம்பு		( குறள் - 80)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
-
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 <CONCLUSION>
@@ -310,6 +257,15 @@ Thanks for your support.
 </div>
 
 @snapend
+
+
+---?include=includes/Anbudaimai.md 
+
+
+`@img[width=200, height=200](assets/img/comment-button.png)` 
+
+
+###### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க. 
 
 
 --- 

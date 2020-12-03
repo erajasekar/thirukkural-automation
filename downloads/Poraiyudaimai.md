@@ -27,6 +27,9 @@ Learn Thirrukural for Extraordinary Life - Adhigaram Poraiyudaimai - Kurals 151 
 Please see below for Thirukkurals  and their timestamps of explanation in this video. 
 
 
+Introduction - 00:00 
+
+
 குறள் / Kural 151 - 00:00 
 
 அகழ்வாரைத் தாங்கும் நிலம்போலத் தம்மை
@@ -157,12 +160,6 @@ Thanks for your support.
 அகழ்வாரைத் தாங்கும் நிலம்போலத் தம்மை
 இகழ்வார்ப் பொறுத்தல் தலை		( குறள் - 151)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Poraiyudaimai.md 
 
 ### <KURAL 152 INTRO> 
@@ -173,12 +170,6 @@ Thanks for your support.
 பொறுத்த லிறப்பினை யென்றும் அதனை
 மறத்த லதனினும் நன்று		( குறள் - 152)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Poraiyudaimai.md 
 
 ### <KURAL 153 INTRO> 
@@ -189,12 +180,6 @@ Thanks for your support.
 இன்மையு ளின்மை விருந்தொரால் வன்மையுள்
 வன்மை மடவார்ப் பொறை		( குறள் - 153)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Poraiyudaimai.md 
 
 ### <KURAL 154 INTRO> 
@@ -205,12 +190,6 @@ Thanks for your support.
 நிறையுடைமை நீங்காமை வேண்டின் பொறையுடைமை
 போற்றி யொழுகப் படும்		( குறள் - 154)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Poraiyudaimai.md 
 
 ### <KURAL 155 INTRO> 
@@ -221,12 +200,6 @@ Thanks for your support.
 ஒறுத்தாரை யொன்றாக வையாரே வைப்பர்
 பொறுத்தாரைப் பொன்போற் பொதிந்து		( குறள் - 155)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Poraiyudaimai.md 
 
 ### <KURAL 156 INTRO> 
@@ -237,12 +210,6 @@ Thanks for your support.
 ஒறுத்தார்க் கொருநாளை இன்பம் பொறுத்தார்க்குப்
 பொன்றுந் துணையும் புகழ்		( குறள் - 156)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Poraiyudaimai.md 
 
 ### <KURAL 157 INTRO> 
@@ -253,12 +220,6 @@ Thanks for your support.
 திறனல்ல தற்பிறர் செய்யினும் நோநொந்
 தறனல்ல செய்யாமை நன்று		( குறள் - 157)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Poraiyudaimai.md 
 
 ### <KURAL 158 INTRO> 
@@ -269,12 +230,6 @@ Thanks for your support.
 மிகுதியான் மிக்கவை செய்தாரைத் தாந்தந்
 தகுதியான் வென்று விடல்		( குறள் - 158)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Poraiyudaimai.md 
 
 ### <KURAL 159 INTRO> 
@@ -285,12 +240,6 @@ Thanks for your support.
 துறந்தாரின் தூய்மை யுடையர் இறந்தார்வாய்
 இன்னாச்சொல் நோற்கிற் பவர்		( குறள் - 159)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Poraiyudaimai.md 
 
 ### <KURAL 160 INTRO> 
@@ -301,12 +250,6 @@ Thanks for your support.
 உண்ணாது நோற்பார் பெரியர் பிறர்சொல்லும்
 இன்னாச்சொ னோற்பாரிற் பின்		( குறள் - 160)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 <CONCLUSION>

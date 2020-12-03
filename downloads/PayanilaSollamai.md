@@ -27,6 +27,9 @@ Learn Thirrukural for Extraordinary Life - Adhigaram Payanila Sollamai - Kurals 
 Please see below for Thirukkurals  and their timestamps of explanation in this video. 
 
 
+Introduction - 00:00 
+
+
 குறள் / Kural 191 - 00:00 
 
 பல்லார் முனியப் பயனில சொல்லுவான்
@@ -157,12 +160,6 @@ Thanks for your support.
 பல்லார் முனியப் பயனில சொல்லுவான்
 எல்லாரும் எள்ளப் படும்		( குறள் - 191)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/PayanilaSollamai.md 
 
 ### <KURAL 192 INTRO> 
@@ -173,12 +170,6 @@ Thanks for your support.
 பயனில பல்லார்முன் சொல்லல் நயனில
 நட்டார்கட் செய்தலிற் றீது		( குறள் - 192)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/PayanilaSollamai.md 
 
 ### <KURAL 193 INTRO> 
@@ -189,12 +180,6 @@ Thanks for your support.
 நயனில னென்பது சொல்லும் பயனில
 பாரித் துரைக்கும் உரை		( குறள் - 193)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/PayanilaSollamai.md 
 
 ### <KURAL 194 INTRO> 
@@ -205,12 +190,6 @@ Thanks for your support.
 நயன்சாரா நன்மையின் நீக்கும் பயன்சாராப்
 பண்பில்சொல் பல்லா ரகத்து		( குறள் - 194)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/PayanilaSollamai.md 
 
 ### <KURAL 195 INTRO> 
@@ -221,12 +200,6 @@ Thanks for your support.
 சீர்மை சிறப்பொடு நீங்கும் பயனில
 நீர்மை யுடையார் சொலின்		( குறள் - 195)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/PayanilaSollamai.md 
 
 ### <KURAL 196 INTRO> 
@@ -237,12 +210,6 @@ Thanks for your support.
 பயனில்சொல் பாராட்டு வானை மகனெனல்
 மக்கட் பதடி யெனல்		( குறள் - 196)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/PayanilaSollamai.md 
 
 ### <KURAL 197 INTRO> 
@@ -253,12 +220,6 @@ Thanks for your support.
 நயனில சொல்லினுஞ் சொல்லுக சான்றோர்
 பயனில சொல்லாமை நன்று		( குறள் - 197)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/PayanilaSollamai.md 
 
 ### <KURAL 198 INTRO> 
@@ -269,12 +230,6 @@ Thanks for your support.
 அரும்பய னாயும் அறிவினார் சொல்லார்
 பெரும்பய னில்லாத சொல்		( குறள் - 198)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/PayanilaSollamai.md 
 
 ### <KURAL 199 INTRO> 
@@ -285,12 +240,6 @@ Thanks for your support.
 பொருள்தீர்ந்த பொச்சாந்துஞ் சொல்லார் மருள்தீர்ந்த
 மாசறு காட்சி யவர்		( குறள் - 199)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/PayanilaSollamai.md 
 
 ### <KURAL 200 INTRO> 
@@ -301,12 +250,6 @@ Thanks for your support.
 சொல்லுக சொல்லிற் பயனுடைய சொல்லற்க
 சொல்லிற் பயனிலாச் சொல்		( குறள் - 200)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 <CONCLUSION>

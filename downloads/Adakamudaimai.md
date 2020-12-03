@@ -6,13 +6,13 @@
 ### Title 
 
 
-உயர் வாழ்க்கைக்கு திருக்குறள் - அதிகாரம் <ADHIGARAM> | Thirukkural for Extraordinary Life  
+உயர் வாழ்க்கைக்கு திருக்குறள் - <ADHIGARAM> | Thirukkural for Extraordinary Life  
 
 
 ### Description 
 
 
-உயர் வாழ்க்கைக்கு திருக்குறள் கற்போம் - அதிகாரம் செய்ந்நன்றியறிதல் - குறள்கள் 121 - 130  
+உயர் வாழ்க்கைக்கு திருக்குறள் கற்போம் - அதிகாரம் <ADHIGARAM> - குறள்கள் 121 - 130  
 
 
 Learn Thirrukural for Extraordinary Life - Adhigaram Adakamudaimai - Kurals 121 - 130 #Thirukkural #Thiruvalluvar #Kural  
@@ -25,6 +25,9 @@ Learn Thirrukural for Extraordinary Life - Adhigaram Adakamudaimai - Kurals 121 
 
 
 Please see below for Thirukkurals  and their timestamps of explanation in this video. 
+
+
+Introduction - 00:00 
 
 
 குறள் / Kural 121 - 00:00 
@@ -157,12 +160,6 @@ Thanks for your support.
 அடக்கம் அமரருள் உய்க்கும் அடங்காமை
 ஆரிருள் உய்த்து விடும்		( குறள் - 121)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Adakamudaimai.md 
 
 ### <KURAL 122 INTRO> 
@@ -173,12 +170,6 @@ Thanks for your support.
 காக்க பொருளா அடக்கத்தை ஆக்கம்
 அதனினூஉங் கில்லை உயிர்க்கு		( குறள் - 122)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Adakamudaimai.md 
 
 ### <KURAL 123 INTRO> 
@@ -189,12 +180,6 @@ Thanks for your support.
 செறிவறிந்து சீர்மை பயக்கும் அறிவறிந்
 தாற்றின் அடங்கப் பெறின்		( குறள் - 123)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Adakamudaimai.md 
 
 ### <KURAL 124 INTRO> 
@@ -205,12 +190,6 @@ Thanks for your support.
 நிலையின் திரியா தடங்கியான் தோற்றம்
 மலையினும் மாணப் பெரிது		( குறள் - 124)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Adakamudaimai.md 
 
 ### <KURAL 125 INTRO> 
@@ -221,12 +200,6 @@ Thanks for your support.
 எல்லார்க்கும் நன்றாம் பணிதல் அவருள்ளும்
 செல்வர்க்கே செல்வம் தகைத்து		( குறள் - 125)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Adakamudaimai.md 
 
 ### <KURAL 126 INTRO> 
@@ -237,12 +210,6 @@ Thanks for your support.
 ஒருமையுள் ஆமைபோல் ஐந்தடக்கல் ஆற்றின்
 எழுமையும் ஏமாப் புடைத்து		( குறள் - 126)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Adakamudaimai.md 
 
 ### <KURAL 127 INTRO> 
@@ -253,12 +220,6 @@ Thanks for your support.
 யாகாவா ராயினும் நாகாக்க காவாக்காற்
 சோகாப்பர் சொல்லிழுக்குப் பட்டு		( குறள் - 127)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Adakamudaimai.md 
 
 ### <KURAL 128 INTRO> 
@@ -269,12 +230,6 @@ Thanks for your support.
 ஒன்றானுந் தீச்சொல் பொருட்பயன் உண்டாயின்
 நன்றாகா தாகி விடும்		( குறள் - 128)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Adakamudaimai.md 
 
 ### <KURAL 129 INTRO> 
@@ -285,12 +240,6 @@ Thanks for your support.
 தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதே
 நாவினாற் சுட்ட வடு		( குறள் - 129)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Adakamudaimai.md 
 
 ### <KURAL 130 INTRO> 
@@ -301,12 +250,6 @@ Thanks for your support.
 கதங்காத்துக் கற்றடங்கல் ஆற்றுவான் செவ்வி
 அறம்பார்க்கும் ஆற்றின் நுழைந்து		( குறள் - 130)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 <CONCLUSION>

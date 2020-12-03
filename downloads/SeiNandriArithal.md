@@ -6,16 +6,16 @@
 ### Title 
 
 
-திருக்குறள் 101 - 110 <ADHIGARAM> விளக்கம்  | Thirukkural Explanation - Sei Nandri Arithal  
+உயர் வாழ்க்கைக்கு திருக்குறள் - <ADHIGARAM> | Thirukkural for Extraordinary Life  
 
 
 ### Description 
 
 
-திருக்குறள்  - <ADHIGARAM> அதிகாரத்தில் உள்ள (101 - 110) குறள்களின் எளிய  விளக்கம்  
+உயர் வாழ்க்கைக்கு திருக்குறள் கற்போம் - அதிகாரம் <ADHIGARAM> - குறள்கள் 101 - 110  
 
 
-Simple Explanation of Thirukkurals 101 - 110 in Sei Nandri Arithal Adhigaram #Thirukkural #Thiruvalluvar #Kural  
+Learn Thirrukural for Extraordinary Life - Adhigaram Sei Nandri Arithal - Kurals 101 - 110 #Thirukkural #Thiruvalluvar #Kural  
 
 
 இந்த காணொளியில் உள்ள தகவல்கள் 
@@ -25,6 +25,9 @@ Simple Explanation of Thirukkurals 101 - 110 in Sei Nandri Arithal Adhigaram #Th
 
 
 Please see below for Thirukkurals  and their timestamps of explanation in this video. 
+
+
+Introduction - 00:00 
 
 
 குறள் / Kural 101 - 00:00 
@@ -157,12 +160,6 @@ Thanks for your support.
 செய்யாமல் செய்த உதவிக்கு வையகமும்
 வானகமும் ஆற்றல் அரிது		( குறள் - 101)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/SeiNandriArithal.md 
 
 ### <KURAL 102 INTRO> 
@@ -173,12 +170,6 @@ Thanks for your support.
 காலத்தி னாற்செய்த நன்றி சிறிதெனினும்
 ஞாலத்தின் மாணப் பெரிது		( குறள் - 102)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/SeiNandriArithal.md 
 
 ### <KURAL 103 INTRO> 
@@ -189,12 +180,6 @@ Thanks for your support.
 பயன்தூக்கார் செய்த உதவி நயன்தூக்கின்
 நன்மை கடலின் பெரிது		( குறள் - 103)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/SeiNandriArithal.md 
 
 ### <KURAL 104 INTRO> 
@@ -205,12 +190,6 @@ Thanks for your support.
 தினைத்துணை நன்றி செயினும் பனைத்துணையாக்
 கொள்வர் பயன்தெரி வார்		( குறள் - 104)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/SeiNandriArithal.md 
 
 ### <KURAL 105 INTRO> 
@@ -221,12 +200,6 @@ Thanks for your support.
 உதவி வரைத்தன் றுதவி உதவி
 செயப்பட்டார் சால்பின் வரைத்து		( குறள் - 105)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/SeiNandriArithal.md 
 
 ### <KURAL 106 INTRO> 
@@ -237,12 +210,6 @@ Thanks for your support.
 மறவற்க மாசற்றார் கேண்மை துறவற்க
 துன்பத்துள் துப்பாயார் நட்பு		( குறள் - 106)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/SeiNandriArithal.md 
 
 ### <KURAL 107 INTRO> 
@@ -253,12 +220,6 @@ Thanks for your support.
 எழுமை எழுபிறப்பும் உள்ளுவர் தங்கண்
 விழுமந் துடைத்தவர் நட்பு		( குறள் - 107)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/SeiNandriArithal.md 
 
 ### <KURAL 108 INTRO> 
@@ -269,12 +230,6 @@ Thanks for your support.
 நன்றி மறப்பது நன்றன்று நன்றல்லது
 அன்றே மறப்பது நன்று		( குறள் - 108)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/SeiNandriArithal.md 
 
 ### <KURAL 109 INTRO> 
@@ -285,12 +240,6 @@ Thanks for your support.
 கொன்றன்ன இன்னா செயினும் அவர்செய்த
 ஒன்றுநன் றுள்ளக் கெடும்		( குறள் - 109)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/SeiNandriArithal.md 
 
 ### <KURAL 110 INTRO> 
@@ -301,12 +250,6 @@ Thanks for your support.
 எந்நன்றி கொன்றார்க்கும் உய்வுண்டாம் உய்வில்லை
 செய்ந்நன்றி கொன்ற மகற்கு		( குறள் - 110)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 <CONCLUSION>

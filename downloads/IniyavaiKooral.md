@@ -6,13 +6,13 @@
 ### Title 
 
 
-உயர் வாழ்க்கைக்கு திருக்குறள் - அதிகாரம் <ADHIGARAM> | Thirukkural for Extraordinary Life  
+உயர் வாழ்க்கைக்கு திருக்குறள் - <ADHIGARAM> | Thirukkural for Extraordinary Life  
 
 
 ### Description 
 
 
-உயர் வாழ்க்கைக்கு திருக்குறள் கற்போம் - அதிகாரம் செய்ந்நன்றியறிதல் - குறள்கள் 91 - 100  
+உயர் வாழ்க்கைக்கு திருக்குறள் கற்போம் - அதிகாரம் <ADHIGARAM> - குறள்கள் 91 - 100  
 
 
 Learn Thirrukural for Extraordinary Life - Adhigaram Iniyavai Kooral - Kurals 91 - 100 #Thirukkural #Thiruvalluvar #Kural  
@@ -25,6 +25,9 @@ Learn Thirrukural for Extraordinary Life - Adhigaram Iniyavai Kooral - Kurals 91
 
 
 Please see below for Thirukkurals  and their timestamps of explanation in this video. 
+
+
+Introduction - 00:00 
 
 
 குறள் / Kural 91 - 00:00 
@@ -157,12 +160,6 @@ Thanks for your support.
 இன்சொலால் ஈரம் அளைஇப் படிறிலவாம்
 செம்பொருள் கண்டார்வாய்ச் சொல்		( குறள் - 91)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/IniyavaiKooral.md 
 
 ### <KURAL 92 INTRO> 
@@ -173,12 +170,6 @@ Thanks for your support.
 அகன்அமர்ந் தீதலின் நன்றே முகனமர்ந்து
 இன்சொலன் ஆகப் பெறின்		( குறள் - 92)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/IniyavaiKooral.md 
 
 ### <KURAL 93 INTRO> 
@@ -189,12 +180,6 @@ Thanks for your support.
 முகத்தான் அமர்ந்தின்து நோக்கி அகத்தானாம்
 இன்சொ லினதே அறம்		( குறள் - 93)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/IniyavaiKooral.md 
 
 ### <KURAL 94 INTRO> 
@@ -205,12 +190,6 @@ Thanks for your support.
 துன்புறூஉம் துவ்வாமை இல்லாகும் யார்மாட்டும்
 இன்புறூஉம் இன்சொ லவர்க்கு		( குறள் - 94)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/IniyavaiKooral.md 
 
 ### <KURAL 95 INTRO> 
@@ -221,12 +200,6 @@ Thanks for your support.
 பணிவுடையன் இன்சொலன் ஆதல் ஒருவற்கு
 அணியல்ல மற்றுப் பிற		( குறள் - 95)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/IniyavaiKooral.md 
 
 ### <KURAL 96 INTRO> 
@@ -237,12 +210,6 @@ Thanks for your support.
 அல்லவை தேய அறம்பெருகும் நல்லவை
 நாடி இனிய சொலின்		( குறள் - 96)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/IniyavaiKooral.md 
 
 ### <KURAL 97 INTRO> 
@@ -253,12 +220,6 @@ Thanks for your support.
 நயன்ஈன்று நன்றி பயக்கும் பயன்ஈன்று
 பண்பின் தலைப்பிரியாச் சொல்		( குறள் - 97)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/IniyavaiKooral.md 
 
 ### <KURAL 98 INTRO> 
@@ -269,12 +230,6 @@ Thanks for your support.
 சிறுமையுள் நீங்கிய இன்சொல் மறுமையும்
 இம்மையும் இன்பம் தரும்		( குறள் - 98)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/IniyavaiKooral.md 
 
 ### <KURAL 99 INTRO> 
@@ -285,12 +240,6 @@ Thanks for your support.
 இன்சொல் இனிதீன்றல் காண்பான் எவன்கொலோ
 வன்சொல் வழங்கு வது		( குறள் - 99)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/IniyavaiKooral.md 
 
 ### <KURAL 100 INTRO> 
@@ -301,12 +250,6 @@ Thanks for your support.
 இனிய உளவாக இன்னாத கூறல்
 கனிஇருப்பக் காய்கவர்ந் தற்று		( குறள் - 100)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 <CONCLUSION>

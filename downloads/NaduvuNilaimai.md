@@ -6,16 +6,16 @@
 ### Title 
 
 
-திருக்குறள் 111 - 120 <ADHIGARAM> விளக்கம்  | Thirukkural Explanation - Naduvu Nilaimai  
+உயர் வாழ்க்கைக்கு திருக்குறள் - <ADHIGARAM> | Thirukkural for Extraordinary Life  
 
 
 ### Description 
 
 
-திருக்குறள்  - <ADHIGARAM> அதிகாரத்தில் உள்ள (111 - 120) குறள்களின் எளிய  விளக்கம்  
+உயர் வாழ்க்கைக்கு திருக்குறள் கற்போம் - அதிகாரம் <ADHIGARAM> - குறள்கள் 111 - 120  
 
 
-Simple Explanation of Thirukkurals 111 - 120 in Naduvu Nilaimai Adhigaram #Thirukkural #Thiruvalluvar #Kural  
+Learn Thirrukural for Extraordinary Life - Adhigaram Naduvu Nilaimai - Kurals 111 - 120 #Thirukkural #Thiruvalluvar #Kural  
 
 
 இந்த காணொளியில் உள்ள தகவல்கள் 
@@ -25,6 +25,9 @@ Simple Explanation of Thirukkurals 111 - 120 in Naduvu Nilaimai Adhigaram #Thiru
 
 
 Please see below for Thirukkurals  and their timestamps of explanation in this video. 
+
+
+Introduction - 00:00 
 
 
 குறள் / Kural 111 - 00:00 
@@ -157,12 +160,6 @@ Thanks for your support.
 தகுதி யெனவொன்று நன்றே பகுதியாற்
 பாற்பட் டொழுகப் பெறின்		( குறள் - 111)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/NaduvuNilaimai.md 
 
 ### <KURAL 112 INTRO> 
@@ -173,12 +170,6 @@ Thanks for your support.
 செப்பம் உடையவன் ஆக்கஞ் சிதைவின்றி
 எச்சத்திற் கேமாப் புடைத்து		( குறள் - 112)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/NaduvuNilaimai.md 
 
 ### <KURAL 113 INTRO> 
@@ -189,12 +180,6 @@ Thanks for your support.
 நன்றே தரினும் நடுவிகந்தாம் ஆக்கத்தை
 அன்றே யொழிய விடல்		( குறள் - 113)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/NaduvuNilaimai.md 
 
 ### <KURAL 114 INTRO> 
@@ -205,12 +190,6 @@ Thanks for your support.
 தக்கார் தகவிலர் என்ப தவரவர் 
 எச்சத்தாற் காணப் படும்		( குறள் - 114)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/NaduvuNilaimai.md 
 
 ### <KURAL 115 INTRO> 
@@ -221,12 +200,6 @@ Thanks for your support.
 கேடும் பெருக்கமும் இல்லல்ல நெஞ்சத்துக்
 கோடாமை சான்றோர்க் கணி		( குறள் - 115)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/NaduvuNilaimai.md 
 
 ### <KURAL 116 INTRO> 
@@ -237,12 +210,6 @@ Thanks for your support.
 கெடுவல்யான் என்ப தறிகதன் நெஞ்சம்
 நடுவொரீஇ அல்ல செயின்		( குறள் - 116)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/NaduvuNilaimai.md 
 
 ### <KURAL 117 INTRO> 
@@ -253,12 +220,6 @@ Thanks for your support.
 கெடுவாக வையா துலகம் நடுவாக
 நன்றிக்கண் தங்கியான் தாழ்வு		( குறள் - 117)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/NaduvuNilaimai.md 
 
 ### <KURAL 118 INTRO> 
@@ -269,12 +230,6 @@ Thanks for your support.
 சமன்செய்து சீர்தூக்குங் கோல்போல் அமைந்தொருபாற்
 கோடாமை சான்றோர்க் கணி		( குறள் - 118)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/NaduvuNilaimai.md 
 
 ### <KURAL 119 INTRO> 
@@ -285,12 +240,6 @@ Thanks for your support.
 சொற்கோட்டம் இல்லது செப்பம் ஒருதலையா
 உட்கோட்டம் இன்மை பெறின்		( குறள் - 119)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/NaduvuNilaimai.md 
 
 ### <KURAL 120 INTRO> 
@@ -301,12 +250,6 @@ Thanks for your support.
 வாணிகம் செய்வார்க்கு வாணிகம் பேணிப்
 பிறவும் தமபோல் செயின்		( குறள் - 120)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 <CONCLUSION>

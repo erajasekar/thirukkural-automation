@@ -27,6 +27,9 @@ Learn Thirrukural for Extraordinary Life - Adhigaram Alukkaramai - Kurals 161 - 
 Please see below for Thirukkurals  and their timestamps of explanation in this video. 
 
 
+Introduction - 00:00 
+
+
 குறள் / Kural 161 - 00:00 
 
 ஒழுக்காறாக் கொள்க ஒருவன்தன் நெஞ்சத்
@@ -157,12 +160,6 @@ Thanks for your support.
 ஒழுக்காறாக் கொள்க ஒருவன்தன் நெஞ்சத்
 தழுக்கா றிலாத இயல்பு		( குறள் - 161)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Alukkaramai.md 
 
 ### <KURAL 162 INTRO> 
@@ -173,12 +170,6 @@ Thanks for your support.
 விழுப்பேற்றின் அஃதொப்ப தில்லையார் மாட்டும்
 அழுக்காற்றின் அன்மை பெறின்		( குறள் - 162)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Alukkaramai.md 
 
 ### <KURAL 163 INTRO> 
@@ -189,12 +180,6 @@ Thanks for your support.
 அறனாக்கம் வேண்டாதான் என்பான் பிறனாக்கம்
 பேணா தழுக்கறுப் பான்		( குறள் - 163)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Alukkaramai.md 
 
 ### <KURAL 164 INTRO> 
@@ -205,12 +190,6 @@ Thanks for your support.
 அழுக்காற்றின் அல்லவை செய்யார் இழுக்காற்றின்
 ஏதம் படுபாக் கறிந்து		( குறள் - 164)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Alukkaramai.md 
 
 ### <KURAL 165 INTRO> 
@@ -221,12 +200,6 @@ Thanks for your support.
 அழுக்கா றுடையார்க் கதுசாலும் ஒன்னார்
 வழுக்கியுங் கேடீன் பது		( குறள் - 165)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Alukkaramai.md 
 
 ### <KURAL 166 INTRO> 
@@ -237,12 +210,6 @@ Thanks for your support.
 கொடுப்ப தழுக்கறுப்பான் சுற்றம் உடுப்பதூஉம்
 உண்பதூஉ மின்றிக் கெடும்		( குறள் - 166)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Alukkaramai.md 
 
 ### <KURAL 167 INTRO> 
@@ -253,12 +220,6 @@ Thanks for your support.
 அவ்வித் தழுக்கா றுடையானைச் செய்யவள்
 தவ்வையைக் காட்டி விடும்		( குறள் - 167)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Alukkaramai.md 
 
 ### <KURAL 168 INTRO> 
@@ -269,12 +230,6 @@ Thanks for your support.
 அழுக்கா றெனவொரு பாவி திருச்செற்றுத்
 தீயுழி உய்த்து விடும்		( குறள் - 168)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Alukkaramai.md 
 
 ### <KURAL 169 INTRO> 
@@ -285,12 +240,6 @@ Thanks for your support.
 அவ்விய நெஞ்சத்தான் ஆக்கமும் செவ்வியான்
 கேடும் நினைக்கப் படும்		( குறள் - 169)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Alukkaramai.md 
 
 ### <KURAL 170 INTRO> 
@@ -301,12 +250,6 @@ Thanks for your support.
 அழுக்கற் றகன்றாரும் இல்லையஃ தில்லார்
 பெருக்கத்தில் தீர்ந்தாரு மில்		( குறள் - 170)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 <CONCLUSION>

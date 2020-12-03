@@ -27,6 +27,9 @@ Learn Thirrukural for Extraordinary Life - Adhigaram Purankooramai - Kurals 181 
 Please see below for Thirukkurals  and their timestamps of explanation in this video. 
 
 
+Introduction - 00:00 
+
+
 குறள் / Kural 181 - 00:00 
 
 அறங்கூறா னல்ல செயினும் ஒருவன்
@@ -157,12 +160,6 @@ Thanks for your support.
 அறங்கூறா னல்ல செயினும் ஒருவன்
 புறங்கூறா னென்றல் இனிது		( குறள் - 181)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Purankooramai.md 
 
 ### <KURAL 182 INTRO> 
@@ -173,12 +170,6 @@ Thanks for your support.
 அறனழீஇ யல்லவை செய்தலின் தீதே
 புறனழீஇப் பொய்த்து நகை		( குறள் - 182)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Purankooramai.md 
 
 ### <KURAL 183 INTRO> 
@@ -189,12 +180,6 @@ Thanks for your support.
 புறங்கூறிப் பொய்த்துயிர் வாழ்தலிற் சாதல்
 அறங்கூறும் ஆக்கந் தரும்		( குறள் - 183)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Purankooramai.md 
 
 ### <KURAL 184 INTRO> 
@@ -205,12 +190,6 @@ Thanks for your support.
 கண்ணின்று கண்ணறச் சொல்லினுஞ் சொல்லற்க
 முன்னின்று பின்னோக்காச் சொல்		( குறள் - 184)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Purankooramai.md 
 
 ### <KURAL 185 INTRO> 
@@ -221,12 +200,6 @@ Thanks for your support.
 அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும்
 புன்மையாற் காணப் படும்		( குறள் - 185)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Purankooramai.md 
 
 ### <KURAL 186 INTRO> 
@@ -237,12 +210,6 @@ Thanks for your support.
 பிறன்பழி கூறுவான் தன்பழி யுள்ளுந்
 திறன்தெரிந்து கூறப் படும்		( குறள் - 186)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Purankooramai.md 
 
 ### <KURAL 187 INTRO> 
@@ -253,12 +220,6 @@ Thanks for your support.
 பகச்சொல்லிக் கேளிர்ப் பிரிப்பர் நகச்சொல்லி
 நட்பாடல் தேற்றா தவர்		( குறள் - 187)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Purankooramai.md 
 
 ### <KURAL 188 INTRO> 
@@ -269,12 +230,6 @@ Thanks for your support.
 துன்னியார் குற்றமுந் தூற்றும் மரபினர்
 என்னைகொல் ஏதிலார் மாட்டு		( குறள் - 188)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Purankooramai.md 
 
 ### <KURAL 189 INTRO> 
@@ -285,12 +240,6 @@ Thanks for your support.
 அறனோக்கி யாற்றுங்கொல் வையம் புறனோக்கிப்
 புன்சொ லுரைப்பான் பொறை		( குறள் - 189)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 ---?include=includes/Purankooramai.md 
 
 ### <KURAL 190 INTRO> 
@@ -301,12 +250,6 @@ Thanks for your support.
 ஏதிலார் குற்றம்போல் தங்குற்றங் காண்கிற்பின்
 தீதுண்டோ மன்னு முயிர்க்கு		( குறள் - 190)
 ```
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 <CONCLUSION>
