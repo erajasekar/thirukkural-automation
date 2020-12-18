@@ -6,16 +6,16 @@
 ### Title 
 
 
-திருக்குறள் 41 - 50 <ADHIGARAM> விளக்கம்  | Thirukkural Explanation - Ilvaazhkkai  
+உயர் வாழ்க்கைக்கு திருக்குறள் - <ADHIGARAM> | Thirukkural for Extraordinary Life  
 
 
 ### Description 
 
 
-திருக்குறள்  - <ADHIGARAM> அதிகாரத்தில் உள்ள (41 - 50) குறள்களின் எளிய  விளக்கம்  
+உயர் வாழ்க்கைக்கு திருக்குறள் கற்போம் - அதிகாரம் <ADHIGARAM> - குறள்கள் 41 - 50  
 
 
-Simple Explanation of Thirukkurals 41 - 50 in Ilvaazhkkai Adhigaram #Thirukkural #Thiruvalluvar #Kural  
+Learn Thirrukural for Extraordinary Life - Adhigaram Ilvaazhkkai - Kurals 41 - 50 #Thirukkural #Thiruvalluvar #Kural  
 
 
 இந்த காணொளியில் உள்ள தகவல்கள் 
@@ -27,6 +27,9 @@ Simple Explanation of Thirukkurals 41 - 50 in Ilvaazhkkai Adhigaram #Thirukkural
 Please see below for Thirukkurals  and their timestamps of explanation in this video. 
 
 
+Introduction - 00:00 
+
+
 குறள் / Kural 41 - 00:00 
 
 இல்வாழ்வான் என்பான் இயல்புடைய மூவர்க்கும்
@@ -34,10 +37,6 @@ Please see below for Thirukkurals  and their timestamps of explanation in this v
 
 Ilvaazhvaan Enpaan  Iyalputaiya  Moovarkkum
 Nallaatrin  Nindra  Thunai 		
-
-English Meaning: 
-
-7 He will be called a (true) householder, who is a firm support to the virtuous of the three orders in		
 
 Keywords : 
 
@@ -49,10 +48,6 @@ Keywords :
 Thurandhaarkkum Thuvvaa  Dhavarkkum  Irandhaarkkum
 Ilvaazhvaan  Enpaan  Thunai 		
 
-English Meaning: 
-
-He will be said to flourish in domestic virtue who aids the forsaken, the poor, and the dead		
-
 Keywords : 
 
 குறள் / Kural 43 - 00:00 
@@ -62,10 +57,6 @@ Keywords :
 
 Thenpulaththaar Theyvam  Virundhokkal  Thaanendraangu
 Aimpulaththaaru  Ompal  Thalai 		
-
-English Meaning: 
-
-The chief (duty of the householder) is to preserve the five-fold rule (of conduct) towards the manes, the Gods, his guests, his relations and himself		
 
 Keywords : 
 
@@ -77,10 +68,6 @@ Keywords :
 Pazhiyanjip Paaththoon  Utaiththaayin  Vaazhkkai
 Vazhiyenjal  Egngnaandrum  Il 		
 
-English Meaning: 
-
-His descendants shall never fail who, living in the domestic state, fears vice (in the acquisition of property) and shares his food (with others)		
-
 Keywords : 
 
 குறள் / Kural 45 - 00:00 
@@ -90,10 +77,6 @@ Keywords :
 
 Anpum Aranum  Utaiththaayin  Ilvaazhkkai
 Panpum  Payanum  Adhu 		
-
-English Meaning: 
-
-If the married life possess love and virtue, these will be both its duty and reward		
 
 Keywords : 
 
@@ -105,10 +88,6 @@ Keywords :
 Araththaatrin Ilvaazhkkai  Aatrin  Puraththaatril
 Pooip  Peruva  Thevan? 		
 
-English Meaning: 
-
-What will he who lives virtuously in the domestic state gain by going into the other, (ascetic) state ?		
-
 Keywords : 
 
 குறள் / Kural 47 - 00:00 
@@ -118,10 +97,6 @@ Keywords :
 
 Iyalpinaan Ilvaazhkkai  Vaazhpavan  Enpaan
 Muyalvaarul  Ellaam  Thalai 		
-
-English Meaning: 
-
-Among all those who labour (for future happiness) he is greatest who lives well in the household state		
 
 Keywords : 
 
@@ -133,10 +108,6 @@ Keywords :
 Aatrin Ozhukki  Aranizhukkaa  Ilvaazhkkai
 Norpaarin  Nonmai  Utaiththu 		
 
-English Meaning: 
-
-The householder who, not swerving from virtue, helps the ascetic in his way, endures more than those who endure penance		
-
 Keywords : 
 
 குறள் / Kural 49 - 00:00 
@@ -147,10 +118,6 @@ Keywords :
 Aran Enap  Pattadhe  Ilvaazhkkai  Aqdhum
 Piranpazhippa  Thillaayin  Nandru 		
 
-English Meaning: 
-
-The marriage state is truly called virtue The other state is also good, if others do not reproach it		
-
 Keywords : 
 
 குறள் / Kural 50 - 00:00 
@@ -160,10 +127,6 @@ Keywords :
 
 Vaiyaththul Vaazhvaangu  Vaazhpavan  Vaanu�ryum
 Theyvaththul  Vaikkap  Patum 		
-
-English Meaning: 
-
-He who on earth has lived in the conjugal state as he should live, will be placed among the Gods who dwell in heaven		
 
 Keywords : 
 
@@ -185,19 +148,21 @@ Thanks for your support.
 
 ---?include=includes/Ilvaazhkkai.md 
 
+### <ADHIGHARAM INTRO> 
+
+---?include=includes/Ilvaazhkkai.md 
+
+### <KURAL 41 INTRO> 
+
+---?include=includes/Ilvaazhkkai.md 
+
 ```
 இல்வாழ்வான் என்பான் இயல்புடைய மூவர்க்கும்
 நல்லாற்றின் நின்ற துணை		( குறள் - 41)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Ilvaazhkkai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 42 INTRO> 
 
 ---?include=includes/Ilvaazhkkai.md 
 
@@ -205,15 +170,9 @@ Thanks for your support.
 துறந்தார்க்கும் துவ்வா தவர்க்கும் இறந்தார்க்கும்
 இல்வாழ்வான் என்பான் துணை		( குறள் - 42)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Ilvaazhkkai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 43 INTRO> 
 
 ---?include=includes/Ilvaazhkkai.md 
 
@@ -221,15 +180,9 @@ Thanks for your support.
 தென்புலத்தார் தெய்வம் விருந்தொக்கல் தானென்றாங்கு
 ஐம்புலத்தா றோம்பல் தலை		( குறள் - 43)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Ilvaazhkkai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 44 INTRO> 
 
 ---?include=includes/Ilvaazhkkai.md 
 
@@ -237,15 +190,9 @@ Thanks for your support.
 பழியஞ்சிப் பாத்தூண் உடைத்தாயின் வாழ்க்கை
 வழியெஞ்சல் எஞ்ஞான்றும் இல		( குறள் - 44)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Ilvaazhkkai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 45 INTRO> 
 
 ---?include=includes/Ilvaazhkkai.md 
 
@@ -253,15 +200,9 @@ Thanks for your support.
 அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை
 பண்பும் பயனும் அது		( குறள் - 45)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Ilvaazhkkai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 46 INTRO> 
 
 ---?include=includes/Ilvaazhkkai.md 
 
@@ -269,15 +210,9 @@ Thanks for your support.
 அறத்தாற்றின் இல்வாழ்க்கை ஆற்றின் புறத்தாற்றில்
 போஒய்ப் பெறுவ தெவன்		( குறள் - 46)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Ilvaazhkkai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 47 INTRO> 
 
 ---?include=includes/Ilvaazhkkai.md 
 
@@ -285,15 +220,9 @@ Thanks for your support.
 இயல்பினான் இல்வாழ்க்கை வாழ்பவன் என்பான்
 முயல்வாருள் எல்லாம் தலை		( குறள் - 47)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Ilvaazhkkai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 48 INTRO> 
 
 ---?include=includes/Ilvaazhkkai.md 
 
@@ -301,15 +230,9 @@ Thanks for your support.
 ஆற்றின் ஒழுக்கி அறனிழுக்கா இல்வாழ்க்கை
 நோற்பாரின் நோன்மை உடைத்து		( குறள் - 48)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Ilvaazhkkai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 49 INTRO> 
 
 ---?include=includes/Ilvaazhkkai.md 
 
@@ -317,15 +240,9 @@ Thanks for your support.
 அறன்எனப் பட்டதே இல்வாழ்க்கை அஃதும்
 பிறன்பழிப்ப தில்லாயின் நன்று		( குறள் - 49)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
+---?include=includes/Ilvaazhkkai.md 
 
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
+### <KURAL 50 INTRO> 
 
 ---?include=includes/Ilvaazhkkai.md 
 
@@ -333,16 +250,6 @@ Thanks for your support.
 வையத்துள் வாழ்வாங்கு வாழ்பவன் வான்உறையும்
 தெய்வத்துள் வைக்கப் படும்		( குறள் - 50)
 ```
-@snap[span-100 text-left text-04]
-**தொடரமைப்பு:**  <TODO> 
-@snapend
-
-@snap[span-100 text-08 text-left]
-> <பொருள்:>
-
-@snapend
-
-
 @snap[span-100 text-08 text-left]
 <div class="conclusion" >
 <CONCLUSION>
@@ -350,6 +257,15 @@ Thanks for your support.
 </div>
 
 @snapend
+
+
+---?include=includes/Ilvaazhkkai.md 
+
+
+`@img[width=200, height=200](assets/img/comment-button.png)` 
+
+
+###### உங்களுக்கு இந்த அதிகாரத்துலே எந்த குறள் பிடிச்சிருக்குனு கமெண்ட்-ல சொல்லுங்க. 
 
 
 --- 
